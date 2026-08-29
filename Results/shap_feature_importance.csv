@@ -1,0 +1,16 @@
+feature,mean_abs_shap
+cpi_roll_mean3,1.028183
+cpi,0.5500778
+cv_pct_bac,0.39188403
+actual_pct_complete,0.35566333
+spi,0.33813825
+spi_roll_mean3,0.3327802
+tcpi,0.19722208
+spi_roll_std3,0.1633979
+cpi_roll_std3,0.12813073
+spi_trend3,0.10676452
+sv_pct_bac,0.08659461
+cpi_trend3,0.075928725
+milestone,0.049806427
+planned_pct_complete,0.0035679925
+had_shock,0.00038408826
